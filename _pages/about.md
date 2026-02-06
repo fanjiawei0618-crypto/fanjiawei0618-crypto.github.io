@@ -59,10 +59,12 @@ Guoli Wang, Shiyun Ma, **Haoru Song**, Yuying Liang, et al.
 
 [Ultrafast Tyrosinase-Mediated Biotinylation of Living Cell Surface Analysis Reveals Novel Cell Surface Proteins Responsible for Influenza A Virus Entry](https://pubs.acs.org/doi/pdf/10.1021/jacs.5c08065?ref=article_openPDF)
 
-Yuying, Liang, Jian Chen*, Shiyun Ma, **Haoru Song**, et al.
+Yuying Liang, Jian Chen*, Shiyun Ma, **Haoru Song**, et al.
 
-[**Citation**](https://pubs.acs.org/doi/10.1021/jacs.5c08065#citeThis) <strong>
-- contributed to the revision and improvement of the manuscript, including systematic checking of benchmark and optimization of analytical procedures.
+[**Citation**](https://pubs.acs.org/doi/10.1021/jacs.5c12360#citeThis) <strong>
+
+<strong>Contribution</strong>
+- contributed to performing multimeric protein modeling and structural quality assessment, conducting protein-protein docking, performing molecular dynamics (MD) simulations and subsequent trajectory analysis, carrying out free energy calculations and futher analysis, as well as drafting the Methods section.
 </div>
 </div>
 
