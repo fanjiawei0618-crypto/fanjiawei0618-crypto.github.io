@@ -17,9 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there! 👋😄 I am <strong> Haoru Song</strong> (Chinese name: <strong>宋昊儒</strong>). I'm currently a 3rd-year Ph.D candidate at the <strong><a href="https://www.chemistry.fudan.edu.cn" target="_blank">Department of Chemistry, Fudan University</a></strong>, advised by <a href="https://chemistry.fudan.edu.cn/89/1f/c45942a690463/page.htm" target="_blank"><strong>Prof. Haojie Lu</a></strong>. I earned my bachelor's degree from <a href="https://chem.nju.edu.cn" target="_blank">Nanjing University, School of Chemistry and Chemical Engineering</a> in <strong>2019</strong>, where I worked with <a href="https://hysz.nju.edu.cn/xudanke/main.psp" target="_blank">Prof. Danke Xu</a>. I previously worked on Chemical Proteomics and Bioinformatics analysis of quantitative proteome data, with a strong focus on increasing the deconvolution depth and improving the efficiency of data processing pipelines for <strong>Thermal Proteome Profiling (TPP)</strong>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<strong> [Research Interest]</strong>
+
+1. <strong>*AI-assisted statistical analysis*</strong>: LLM-enabled QC and quantitative analysis pipelines for quantitative proteomics data.
+2. <strong>*Deep target deconvolution methods and multi-omics integration*</strong>: Deep deconvolution of PPI/Protein-small molecule interaction networks in TPP with multi-omics validation.
+
+<strong>Email:</strong>
+
+📧 Personal email: <a href="mailto:songhaoru233@gmail.com">songhaoru233@gmail.com</a><br>
+🎓 University email: <a href="mailto:hrsong23@m.fudan.edu.cn">hrsong23@fudan.edu.cn</a>
 
 
 # 🔥 News
