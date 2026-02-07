@@ -68,7 +68,7 @@ Yuying Liang, Jian Chen*, Shiyun Ma, **Haoru Song**, et al.
 [**Citation**](https://pubs.acs.org/doi/10.1021/jacs.5c12360#citeThis) <strong>
 
 <strong>Contribution</strong>
-- Contributed to performing multimeric protein modeling and structural quality assessment, conducting protein-protein docking, performing molecular dynamics (MD) simulations and subsequent trajectory analysis, carrying out free energy calculations and futher analysis, as well as drafting the Methods section.
+- Contributed to performing multimeric protein-cell membrane complex modeling and structural quality assessment, conducting protein-protein docking, performing molecular dynamics (MD) simulations and subsequent trajectory analysis, carrying out free energy calculations and futher analysis, as well as drafting the Methods section.
 </div>
 </div>
 
